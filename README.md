@@ -21,8 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ([https://your-solution-url.com](https://github.com/youngjorisky/qr-code-component-main/deployments/github-pages)
+
+- Live Site URL: ([https://your-live-site-url.com](https://youngjorisky.github.io/qr-code-component-main/)
 
 ## My process
 -Involed basically using css flex property to create two containers and putting an img tag into one and the texts tag into the other. Styling was essential to archieving my desired results.
