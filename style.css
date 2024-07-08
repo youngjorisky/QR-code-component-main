@@ -21,7 +21,7 @@ body{
     width: 375px;
     position: relative;
     overflow: hidden;
-    max-width: 375px;
+    max-width: 377px; // adding extra space for mobile ves.
     background-color: hsl(0, 0%, 100%);
     padding: 20px 20px 0px 20px;
     border-radius: 20px;
